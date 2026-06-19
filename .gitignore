@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+venv/
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.json
+
+# Snowflake credentials
+config.py
+credentials.py
